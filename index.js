@@ -103,7 +103,7 @@ console.log(num.toString(2));
 //prints the value in console
 //output : hello world
 console.log("hello world");
-//
+//it displays the console in different color based on browser
 console.info("hello world");
 //It writes the error message to the console
 console.error("it was a mistake");
