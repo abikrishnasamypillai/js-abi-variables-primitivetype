@@ -80,9 +80,17 @@ let str1='     hello       world!           ';
 //output : hello       world!
 console.log(str1.trim());
 
---------------------------------------------------------------------------
+//------------------------------------------------------------------------
 
+//Number Method's
 
-
-
-
+let num= 2011.32546;
+//it fixes the values as it is given,if no arguements fixes only main value
+//output : 2011.325
+console.log(num.toFixed(3));
+//it returns the exponential notations
+//output :2.01132546e+3
+console.log(num.toExponential())
+//it returns the value with BASE value mentioned inside bracket
+//output : 11111011011.0101001101010001010110001011100000101
+console.log(num.toString(2))
