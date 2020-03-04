@@ -80,7 +80,7 @@ let str1='     hello       world!           ';
 //output : hello       world!
 console.log(str1.trim());
 
-
+--------------------------------------------------------------------------
 
 
 
