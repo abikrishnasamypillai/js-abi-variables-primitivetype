@@ -138,3 +138,4 @@ console.log(String(num));
 //boolean is used to return either 0's-false OR 1's-true
 console.log(Boolean(10<9))
 //output : False
+
